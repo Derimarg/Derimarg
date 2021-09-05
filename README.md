@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<!--
-**Derimarg/Derimarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Derimar Gray a Full Stack Web Developer, I Spend most of time coding outstanding projects. I love sharing knowledge and learn, my goal is to help other developers!
 
-Here are some ideas to get you started:
+<!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at @CustomWoodProducts
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for help with Outstanding ideas.
+- 📫 How to reach me: derimargray@gmail.com.
+- 😄 Pronouns: Deri, Derimar, isDerimar.
+- ⚡ Fun fact: I am a Mechanical Engineer.
+
+<br />
+<br />
+
+#### Info
+- :paperclip: [My Resume/CV]()
+- :email: derimargray@gmail.com

@@ -15,5 +15,5 @@ I'm Derimar Gray a Full Stack Web Developer, I Spend most of time coding outstan
 <br />
 
 #### Info
-- :paperclip: [My Resume/CV]()
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1KidT8KitY4FYQP4ugY0rYqijRlHK0tSf/view?usp=sharing)
 - :email: derimargray@gmail.com

@@ -16,5 +16,6 @@ I'm Derimar a Full Stack Developer with passion for developing web and mobile ap
 
 #### Info
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/12PhdFbCRmfhgsZeYwLbz-fj4A_4WkNqq/view?usp=sharing)
-- 🖼 www.linkedin.com/in/derimargray
-- :email: derimargray@gmail.com
+- 👦🏻 [Profile Link Tree] (https://derimargray.notion.site/Profile-Link-Tree-49d31585c9c346f6b215da79881b6758)
+- 🔗 [Linkeind](www.linkedin.com/in/derimargray)
+- :email: [Write Email](derimargray@gmail.com)

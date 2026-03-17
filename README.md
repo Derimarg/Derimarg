@@ -4,9 +4,9 @@ As a Software Engineer with a passion for developing web and mobile applications
 
 - 🔭 I’m currently voluntering at @Harvardintechseattle
 - 📫 How to reach me: derimargray@gmail.com.
-- 😄 Pronouns: Deri, Derimar, isDerimar.
-- ⚡ Fun fact: I am a Mechanical.
-- 🗣️ Languages: English, Spanish, French(Learning)
+- 😄 Pronouns: Deri, Derimar, Dey.
+- ⚡ Fun fact: I am a Mechanical Engineer currently pursuing a double B.S. in Computer Science and Electrical Engineering.
+- 🗣️ Languages: English, Spanish, French(Learning), Italian(Learning)
 
 <br />
 <br />
